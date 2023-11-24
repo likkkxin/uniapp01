@@ -3,7 +3,9 @@
     "pages/home/home",
     "pages/cate/cate",
     "pages/cart/cart",
-    "pages/my/my"
+    "pages/my/my",
+    "subpkg/goods_detail/goods_detail",
+    "subpkg/goods_list/goods_list"
   ],
   "subPackages": [],
   "window": {
